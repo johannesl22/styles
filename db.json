@@ -1,9 +1,12 @@
 
 {
-    "themes": {
-        
-           "--color-secondary": "#707070",
-
-    
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
