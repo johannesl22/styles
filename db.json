@@ -4,7 +4,7 @@
     "theme": {
         
           "--color-primary": "#4878b7",
-          "--color-secondary": "#ffcd00",
+          "--color-secondary": "#b00020",
           "--color-toolbar": "#ededed",
           "--color-text": "#000000",
           "--color-text-menu": "#707070",
