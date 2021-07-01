@@ -1,11 +1,23 @@
+
+
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    "theme": {
+        
+          "--color-primary": "#4878b7",
+          "--color-secondary": "#ffcd00",
+          "--color-toolbar": "#ededed",
+          "--color-text": "#000000",
+          "--color-text-menu": "#707070",
+          "--color-text-buttons": "#4878b7",
+          "--color-error": "#b00020",
+          "--color-alert": "#f07012",
+          "--color-headline-and-subtitles": "#002e6d",
+          "--color-selection-controls": "#5fabd0",
+          "--color-background-menu": "#f8f8f8",
+          "--color-table-header": "#4878b7",
+          "--color-tabs-header": "#4878b7"
+
+    
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
+
